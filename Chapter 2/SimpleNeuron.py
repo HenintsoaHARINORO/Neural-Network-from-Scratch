@@ -1,6 +1,6 @@
-'''
+"""
     Fully connected neural network- 3 neurons
-'''
+"""
 inputs = [1, 2, 3, 2.5]
 
 weights1 = [0.2, 0.8, -0.5, 1]
